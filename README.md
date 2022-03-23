@@ -3,7 +3,7 @@ My name is Vinícius Daniel, I'm currently a Computer Science student at the Fed
 
 - 🔭 I’m currently working on projects as a back-end developer, using C/C++ language to develop my university projects.
 - 🌱 I’m currently learning C# (.NET). I also want to know other languages like Dart (Flutter Framework), Python and other technologies necessary for my professional development.
-- 📫 How to reach me: viniciusdanielmoreira@gmail.com or <a href="linkedin.com/in/vinícius-moreira-02ab12210" target="_blank">Linkedin</a>.
+- 📫 How to reach me: viniciusdanielmoreira@gmail.com or <a href="https://www.linkedin.com/in/vin%C3%ADcius-moreira-02ab12210/" target="_blank">Linkedin</a>.
 - ⚡ Fun fact: I like going to the gym and watching series/movies.
 
 <!--
